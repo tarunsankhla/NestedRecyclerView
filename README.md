@@ -1,1 +1,1 @@
-
+Android nested Recycler view in which a recycler view is used set adapter to another recycler view; so in such case multiple recycler view are onViewholder.The parent Recycler view hold data of child recycler view ,so the data is fetched from JSON and then parsed into ArrayLIST<> into getter stter and bind to the recycler onviewholder.
