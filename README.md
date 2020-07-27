@@ -1,1 +1,2 @@
 
+Nested Recycler view is an approach in which you can create multiple recycler view by setting adapter to parent recycler view for child recycler view so now every view of the parent recycler view is also a recycler view.This really help when you want to diplay data on home page for various list such as a movie surfing site canhave recently viewed ,most popular ,latest show ,recommendation . So intead of creating list view or recycler view for every list of data ; you can set a parent recycler view that set adapter to every list to the child of the parent recycler view
